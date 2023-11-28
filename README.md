@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabyan09
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning Python, C, PHP, HTML, CSS, JS, SQL in school while working in REALSOFT Informatique
-- 💞️ I’m looking to collaborate on web dev projects
+- 💞️ I’m looking to collaborate on web or dev projects
 - 📫 How to reach me :07.77.04.53.11
 
 <!---
