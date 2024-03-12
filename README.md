@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fabyan09
+- 👋 Hi, I’m Gerbaud Fabrice
 - 👀 I’m interested in developpment and web dev
 - 🌱 I’m currently learning Python, C, PHP, HTML, CSS, JS, SQL, Java in school and in my personnal free time while working in REALSOFT Informatique
 - 💞️ I’m looking to collaborate on web or dev projects
-- 📫 How to reach me : 07.77.04.53.11
+- 📫 How to reach me : 07.77.04.53.11 or fabricegerbaud06@gmail.com
 
 <!---
 fabyan09/fabyan09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
