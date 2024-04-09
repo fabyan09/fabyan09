@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gerbaud fabrice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerbaud fabrice" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gerbaud-fabrice-578bb7272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerbaud fabrice" height="30" width="40" /></a>
 <a href="https://fb.com/fab rice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fab rice" height="30" width="40" /></a>
 <a href="https://instagram.com/fbrice09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fbrice09" height="30" width="40" /></a>
 </p>
