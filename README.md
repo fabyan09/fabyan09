@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabrice Gerbaud</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
-- 🔭 I’m currently working on [Kakou Quest](https://github.com/fabyan09/SAE-Rogue-Like)
+<h3 align="center">A passionate software developer from France</h3>
+- 🔭 I’m currently working on [Kakou Quest](https://github.com/fabyan09/SAE-Rogue-Like) a Java project!
 
 - 🌱 I’m currently learning **Java, C, PHP, Python, Javascript, HTML, CSS, SQL, Assembly and many others**
 
