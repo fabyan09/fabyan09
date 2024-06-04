@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **Java, C, PHP, Python, Javascript, HTML, CSS, SQL, Assembly and many others**
 
+- 🌷 I'm a calm, curious and studious guy, I love thinking of the better solution before I start anything, as a Developper, we like optimising our time ;)
+- 🎉 I like sports, cinema, music, videogames and a lot of other things! I can develop real interests for random topics really easily!
+
 - 📫 How to reach me **fabricegerbaud06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
