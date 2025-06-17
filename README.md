@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fabyan09&label=Profile%20views&color=0e75b6&style=flat" alt="fabyan09" /> </p>
 <h1 align="center">Hi 👋, I'm Fabrice Gerbaud</h1>
 <h3 align="center">A passionate software developer from France</h3>
-- 🔭 I’m currently working on <a href="https://github.com/fabyan09/SAE-Rogue-Like">Kakou Quest</a>, a Java project with my team!
+- 🔭 I’m currently working on <a href="https://github.com/fabyan09/F-Spotify">Faux-Tify</a>, a Java Android project with my classmate <a href="https://github.com/Bendersnetch">Federico</a>!
 
 - 🌱 I’m currently learning **Java, C, PHP, Python, Javascript, HTML, CSS, SQL, Assembly and many others**
 
@@ -13,7 +13,7 @@
     
 - 🎉 I like sports, cinema, music, videogames and a lot of other things! I can develop real interests for random topics really easily!
 
-- 📫 How to reach me **fabricegerbaud06@gmail.com**
+- 📫 How to reach me : **fabricegerbaud06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
