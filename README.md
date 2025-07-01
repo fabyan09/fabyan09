@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from France</h3>
 - 🔭 I’m currently working on <a href="https://github.com/fabyan09/F-Spotify">Faux-Tify</a>, a Java Android project with my classmate <a href="https://github.com/Bendersnetch">Bendersnetch</a>!
 
-- 🤖 Take a look at my website/portfolio : <a href="https://fabyan09.github.io/portfolio"><img src="https://png.pngtree.com/png-vector/20230410/ourmid/pngtree-see-more-buttons-in-red-rounded-rectangle-shape-with-white-line-vector-png-image_6686430.png" alt="See more..."></a> 😁
+- 🤖 Take a look at my website/portfolio : <a href="https://fabyan09.github.io/portfolio"><img src="https://png.pngtree.com/png-vector/20230410/ourmid/pngtree-see-more-buttons-in-red-rounded-rectangle-shape-with-white-line-vector-png-image_6686430.png" alt="See more..." width="50" height="50"></a> 😁
 
 - 🌱 I’m currently learning **Java, C, PHP, Python, Javascript, HTML, CSS, SQL, Assembly and many others**
 
