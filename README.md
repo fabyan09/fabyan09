@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fabyan09&label=Profile%20views&color=0e75b6&style=flat" alt="fabyan09" /> </p>
 <h1 align="center">Hi 👋, I'm Fabrice Gerbaud</h1>
 <h3 align="center">A passionate software developer from France</h3>
-- 🔭 I’m currently working on <a href="https://github.com/fabyan09/Statify">Statify</a>, a web project with my classmate <a href="https://github.com/Merlin1337">Merlin Caromel</a>!
+- 🔭 I’m currently working on <a href="https://github.com/NutrikaApp/nutrika">Nutrika</a>, a web project with my <a href="https://github.com/NutrikaApp">team</a>!
 
 - 🤖 Take a look at my website/portfolio : <a href="https://fabyan09.github.io/portfolio"><img src="https://bnbleisole.it/wp-content/uploads/2016/04/view-more-button.png" alt="See more..." width="197" height="50"></a>      😁
 
